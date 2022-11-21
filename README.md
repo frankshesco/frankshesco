@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.freepik.com/vector-premium/banner-conceptos-palabra-front-end-programacion-aplicaciones-web_106317-84.jpg?w=2000" align="center" style="width: 100%" />
+<img src="https://img.freepik.com/vector-premium/banner-conceptos-palabra-front-end-programacion-aplicaciones-web_106317-84.jpg?w=2000 " align="center" style="width: 100%" />
 </div>  
   
 
